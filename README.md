@@ -1,3 +1,5 @@
+Fork of the original by [ultrah](https://github.com/ultrah/) under the conditions specified, see original readme below:
+
 # TinyMatic
 
 TinyMatic was formerly named `HomeDroid` and was created back when Android 2.1 was the latest version of Android and before I started developing software professionally.
@@ -16,6 +18,7 @@ To add support for a new device type, most likely the only place that needs chan
 
 ## Please Note
 
-TinyMatic is 'All rights reserved', meaning that it is not licenced under an open-source licence and permission is explicitly not given to publish binaries based on any code in this repository to any app store. You are free to copy, fork and modify the source for private use and I welcome contributions and PRs!
+TinyMatic is 'All rights reserved', meaning that it is not licenced under an open-source licence and permission is explicitly not given to publish binaries based on any code in this repository to any app store. ***You are free to copy, fork and modify the source for private use*** and I welcome contributions and PRs!
 
 (Bottom line, I don't want some weird version of TinyMatic showing up on the Play Store)
+
