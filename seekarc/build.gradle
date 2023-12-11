@@ -1,0 +1,15 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 28
+
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 28
+    }
+    namespace 'com.triggertrap.seekarc'
+}
+
+dependencies {
+    implementation 'androidx.appcompat:appcompat:1.0.2'
+}
